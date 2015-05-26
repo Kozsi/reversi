@@ -1,5 +1,4 @@
 package reversi;
-
 /**
  * Tablat letrehozo osztaly esa jatek allasat tartalmazza.
  * @author kozsi

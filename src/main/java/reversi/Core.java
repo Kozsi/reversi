@@ -1,5 +1,7 @@
 package reversi;
 
+import org.slf4j.LoggerFactory;
+import ch.qos.logback.classic.Logger;
 /**
  *@author Kozslai Gergo
  *
@@ -21,6 +23,13 @@ public class Core extends Table {
 		System.out.println(" Black pieces: " + getBlack() + " White pieces: "
 				+ getWhite());
 	}
+	
+	/**
+	 * Logolásra használt eszköz.
+	 */
+
+	private static Logger logger = (Logger) LoggerFactory.getLogger(Core.class);
+
 
 	/**
 	 * Levizsgalja hogy a tabla betelt e.
@@ -34,6 +43,9 @@ public class Core extends Table {
 					vege = 0;
 			}
 		}
+		if(vege==0){
+			logger.info("A jatek folytatodik, a tablan meg van szabad hely!");
+		} else logger.info("A jateknak vege, a tabla betelt!");
 		return vege;
 	}
 
@@ -52,11 +64,12 @@ public class Core extends Table {
 	 *            oszlop iranyaba lep
 	 * @return a lehetseges lepesek szama
 	 */
-	private int checkMove(int currentPlayer, int x, int y, int vector1,
+	public int checkMove(int currentPlayer, int x, int y, int vector1,
 			int vector2) {
 		if (getTable()[x][y] != 0) {
 			return 0;
 		}
+		
 		x += vector1;
 		y += vector2;
 		int oppositePlayer = 0, db = 0;
@@ -75,13 +88,10 @@ public class Core extends Table {
 		}
 		if ((db != 0) && (x < 8) && (x >= 0) && (y < 8) && (y >= 0)
 				&& (getTable()[x][y] == currentPlayer)) {
-
 			return db;
 		}
-
 		return 0;
 	}
-	
 	/**
 	 * Lerakja a megadott koordinatakra a jatekos babujat, ha szabalyos a lepes, es az olloban levo babukat megforditja.
 	 * @param currentPlayer
@@ -97,7 +107,7 @@ public class Core extends Table {
 	 * @return szabalyos-e a lepes, vagy sem
 	 */
 	
-	private int place(int currentPlayer, int x, int y, int vector1, int vector2) {
+	public int place(int currentPlayer, int x, int y, int vector1, int vector2) {
 		if (getTable()[x][y] != 0) {
 			return 0;
 		}
@@ -110,9 +120,9 @@ public class Core extends Table {
 			oppositePlayer = 2;
 		}
 		while ((x < 8) && (x >= 0) && (y < 8) && (y >= 0)) {
-			if (getTable()[x][y] != oppositePlayer)
+			if (getTable()[x][y] != oppositePlayer){
 				break;
-
+			}
 			x += vector1;
 			y += vector2;
 			db++;
@@ -162,12 +172,13 @@ public class Core extends Table {
 	 * @param y a tablan levo oszlopot jeloli
 	 * @return van-e ollo vagy nincs
 	 */
-	private int getShears(int player, int x, int y) {
+	public int getShears(int player, int x, int y) {
 		int vektor1 = -1;
 		int vektor2 = -1;
 		for (int i = 0; i < 8; i++) {
 
 			if (checkMove(player, x, y, vektor1, vektor2) == 1) {
+				logger.info("Talalhato szabalyos lepes!");
 				return 1;
 			}
 			if (vektor1 == -1 && vektor2 != 1) {
@@ -183,7 +194,7 @@ public class Core extends Table {
 				vektor1 -= 1;
 			} // 1 0 -1
 		}
-
+		logger.info("Nincs elerheto szabalyos lepes!");
 		return 0;
 	}
 	/**
@@ -238,6 +249,7 @@ public class Core extends Table {
 				setWhite(getWhite() + 1);
 			}
 		}
+		logger.info("Megfordult babuk szama: %d",pieces);
 		return pieces;
 
 	}
@@ -285,6 +297,7 @@ public class Core extends Table {
 			}
 
 		} catch (NumberFormatException ex) {
+			logger.info("Hiba az atalakitas soran!");
 			return 0;
 		}
 		if (jo == 1) {
@@ -294,9 +307,12 @@ public class Core extends Table {
 			if (y != 0) {
 				y -= 1;
 			}
+			logger.info("Szabalyos atalakitas!");
 			return 1;
 		}
 		return 0;
 	}
+	
 
 }
+
