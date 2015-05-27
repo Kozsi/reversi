@@ -1,6 +1,12 @@
 package reversi;
-import org.slf4j.LoggerFactory;
+import org.slf4j.*;
+
+import java.util.Collections;
+import java.util.List;
 import java.util.Scanner;
+import java.util.logging.Level;
+import java.util.logging.LogManager;
+
 import ch.qos.logback.classic.Logger;
 /**
  * A jatek torzset tartalmazo osztaly.

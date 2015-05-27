@@ -1,6 +1,7 @@
 package reversi;
 
 import org.slf4j.LoggerFactory;
+import org.slf4j.*;
 import ch.qos.logback.classic.Logger;
 /**
  *@author Kozslai Gergo
