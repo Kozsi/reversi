@@ -61,13 +61,25 @@
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
 			<version>1.1.2</version>
-			<configuration>
-					<configLocation>${basedir}/src/resources/logback.xml</configLocation>
-				</configuration>
 		</dependency>
 	</dependencies>
 	<build>
 		<plugins>
+		<plugin>
+	<groupId>org.apache.maven.plugins</groupId>
+		<artifactId>maven-jar-plugin</artifactId>
+			<version>2.6</version>
+				<configuration>
+				<finalName>Reversi</finalName>
+				<archive>
+				<manifest>
+			<addClasspath>true</addClasspath>
+			<mainClass>reversi.Main</mainClass>
+				<classpathPrefix>dependency-jars/</classpathPrefix>
+				</manifest>
+			</archive>
+			</configuration>
+				</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
@@ -78,6 +90,25 @@
 				<artifactId>maven-site-plugin</artifactId>
 				<version>3.3</version>
 			</plugin>
+			<plugin>
+<groupId>org.apache.maven.plugins</groupId>
+<artifactId>maven-dependency-plugin</artifactId>
+<version>2.5.1</version>
+<executions>
+<execution>
+<id>copy-dependencies</id>
+<phase>package</phase>
+<goals>
+<goal>copy-dependencies</goal>
+</goals>
+<configuration>
+<outputDirectory>
+${project.build.directory}/dependency-jars/
+</outputDirectory>
+</configuration>
+</execution>
+</executions>
+</plugin>
 		</plugins>
 	</build>
 	<reporting>
