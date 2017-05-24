@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.shape.*?>
+
+<AnchorPane id="AnchorPane" fx:id="proba" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="480.0" prefWidth="652.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="reversi.view.CreateTableController">
+  <children>
+      <SplitPane dividerPositions="0.7507692307692307" pickOnBounds="false" prefHeight="480.0" prefWidth="652.0">
+        <items>
+          <AnchorPane fx:id="leftPane" minHeight="0.0" minWidth="0.0" onMouseClicked="#handlePut" prefHeight="480.0" prefWidth="480.0" />
+          <AnchorPane fx:id="rightPane" minHeight="0.0" minWidth="0.0" prefHeight="553.0" prefWidth="142.0">
+               <children>
+                  <Text fx:id="player1N" layoutX="63.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                  <Text fx:id="player2N" layoutX="63.0" layoutY="99.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                  <TextField fx:id="player2Score" editable="false" layoutX="28.0" layoutY="104.0" prefHeight="31.0" prefWidth="97.0" />
+                  <TextField fx:id="player1Score" editable="false" layoutX="28.0" layoutY="52.0" prefHeight="31.0" prefWidth="97.0" />
+                  <Text layoutX="63.0" layoutY="196.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Log:" />
+                  <TextArea fx:id="log" layoutX="9.0" layoutY="201.0" prefHeight="262.0" prefWidth="140.0" />
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+  </children>
+</AnchorPane>

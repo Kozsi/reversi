@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="344.0" prefWidth="477.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="reversi.view.PlayerNamePaneController">
+   <children>
+      <SplitPane dividerPositions="0.5032119914346895" layoutX="5.0" prefHeight="297.0" prefWidth="469.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="310.0" prefWidth="241.0">
+               <children>
+                  <TextField fx:id="player1Field" layoutX="22.0" layoutY="83.0" />
+                  <Text layoutX="40.0" layoutY="30.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Black Player" textAlignment="CENTER" wrappingWidth="151.6708984375" />
+                  <Text layoutX="22.0" layoutY="78.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Name:" />
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <TextField fx:id="player2Field" layoutX="21.0" layoutY="82.0" />
+                  <Text layoutX="38.0" layoutY="30.0" strokeType="OUTSIDE" strokeWidth="0.0" text="White Player" textAlignment="CENTER" wrappingWidth="151.6708984375" />
+                  <Text layoutX="21.0" layoutY="77.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Name:" />
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+      <Button layoutX="27.0" layoutY="299.0" mnemonicParsing="false" onAction="#handleReady" prefHeight="31.0" prefWidth="426.0" text="Ready" />
+   </children>
+</AnchorPane>

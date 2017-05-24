@@ -6,24 +6,22 @@ import org.junit.Test;
 public class TableTest {
 
 	private Table t = new Table();
-	
-	
-	
+
 	@Test
 	public void testGetBlack() {
-		
+
 		assertEquals(2, t.getBlack());
 	}
 
 	@Test
 	public void testGetFeher() {
-		
+
 		assertEquals(2, t.getWhite());
 	}
-	
+
 	@Test
 	public void testPalya() {
-		
+
 		int tomb[][] = t.getTable();
 		for (int i = 0; i < 8; i++) {
 			for (int j = 0; j < 8; j++) {

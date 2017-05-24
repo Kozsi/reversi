@@ -1,0 +1,874 @@
+2016-06-03 21:36:38 DEBUG Core:272 - Megfordult babuk szama: 1
+2016-06-03 21:36:38 DEBUG Core:192 - Talalhato szabalyos lepes!
+2016-06-03 21:36:38 DEBUG Core:336 - Szabalyos atalakitas!
+2016-06-03 21:36:38 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-20 16:40:10 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-20 16:40:10 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-20 16:40:15 INFO  Main:67 - A %d. jatekos tul keves koordinatat adott meg!
+2017-05-20 16:40:24 DEBUG Core:336 - Szabalyos atalakitas!
+2017-05-20 16:40:24 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-20 16:40:24 INFO  Main:89 - A1jatekos hibasan lepett!
+2017-05-20 18:22:05 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-20 18:22:05 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 19:08:44 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-23 19:08:44 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 19:09:27 DEBUG Core:336 - Szabalyos atalakitas!
+2017-05-23 19:09:27 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 19:09:27 INFO  Main:89 - A1jatekos hibasan lepett!
+2017-05-23 19:09:42 DEBUG Core:336 - Szabalyos atalakitas!
+2017-05-23 19:09:42 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 19:09:42 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 19:09:42 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-23 19:09:42 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:48:39 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:48:39 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:16 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:16 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:17 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:17 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:18 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:18 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:18 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:18 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:18 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:18 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:19 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:19 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:19 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:19 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:19 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:19 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:20 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:20 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:20 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:20 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:20 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:20 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:21 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:21 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:21 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:21 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:21 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:21 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:21 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:21 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:28 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:28 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:28 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:28 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:28 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:28 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:29 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:29 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:29 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:29 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:29 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:29 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:29 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:29 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:30 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:30 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:30 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:30 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:30 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:30 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:30 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:30 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:31 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:31 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:31 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:31 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:32 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:32 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:32 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:32 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:32 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:32 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:32 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:32 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:32 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:32 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:33 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:33 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:49:33 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:49:33 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:53:35 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:53:35 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:53:35 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:54:32 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:54:32 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:54:32 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:55:41 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:55:41 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:55:41 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:55:45 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:55:45 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:55:46 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:55:46 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:55:46 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:55:46 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:55:47 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:55:47 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:55:48 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:55:48 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:55:48 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:55:48 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:55:48 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:55:55 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:55:55 DEBUG Core:272 - Megfordult babuk szama: 2
+2017-05-23 23:55:55 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:55:57 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:55:57 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:55:58 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:55:58 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:55:58 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:56:51 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:56:51 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:56:51 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:56:53 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:56:53 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:56:54 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:56:54 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:56:55 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:56:55 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:56:55 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:56:59 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:56:59 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:56:59 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:00 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:00 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:01 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:01 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:02 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:02 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:02 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:02 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:05 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:05 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:05 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:05 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:05 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:05 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:06 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:06 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:06 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:06 DEBUG Core:272 - Megfordult babuk szama: 2
+2017-05-23 23:57:06 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:08 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:08 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:11 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:11 DEBUG Core:272 - Megfordult babuk szama: 2
+2017-05-23 23:57:11 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:15 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:15 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:57:15 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:16 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:16 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:57:16 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:18 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:18 DEBUG Core:272 - Megfordult babuk szama: 2
+2017-05-23 23:57:18 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:20 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:20 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:23 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:23 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:57:23 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:24 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:24 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:57:24 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:27 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:27 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:28 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:28 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:32 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:32 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:33 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:33 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:37 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:37 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:57:37 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:39 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:39 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:57:39 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:41 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:41 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:42 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:42 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:57:42 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:44 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:44 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:57:44 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:47 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:47 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-23 23:57:49 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-23 23:57:49 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-23 23:57:49 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:04:08 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:04:08 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:04:08 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:04:14 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:04:14 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:04:14 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:04:18 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:04:18 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:04:18 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:04:23 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:04:23 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:04:23 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:04:27 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:04:27 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:04:27 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:04:36 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:04:36 DEBUG Core:272 - Megfordult babuk szama: 2
+2017-05-24 00:04:36 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:04:41 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:04:41 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:24:03 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:24:07 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:25:25 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:26:05 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:03 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:03 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:06 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:06 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:07 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:07 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:30:07 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:09 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:09 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:11 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:11 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:12 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:12 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:12 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:12 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:13 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:13 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:14 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:14 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:14 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:14 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:15 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:15 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:30:15 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:20 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:20 DEBUG Core:272 - Megfordult babuk szama: 2
+2017-05-24 00:30:20 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:22 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:22 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:23 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:23 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:24 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:24 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:25 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:25 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:30:25 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:33 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:33 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:35 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:35 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:30:35 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:39 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:39 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:40 DEBUG Core:272 - Megfordult babuk szama: 2
+2017-05-24 00:30:40 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:30:49 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:30:49 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:30:49 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:31:35 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:31:35 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:31:35 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:31:38 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:31:38 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:36:43 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:36:43 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:36:44 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:36:44 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:36:44 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:36:46 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:36:46 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:36:48 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:36:48 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:36:49 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:36:49 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:36:50 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:36:50 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:36:50 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:36:50 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:36:51 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:36:51 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:36:51 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:36:51 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:36:52 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:36:52 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:36:52 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:36:54 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:36:54 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:36:57 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:36:57 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:36:58 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:36:58 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:00 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:00 DEBUG Core:272 - Megfordult babuk szama: 2
+2017-05-24 00:37:00 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:04 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:04 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:06 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:06 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:07 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:07 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:08 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:08 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:09 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:09 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:10 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:10 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:11 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:11 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:37:11 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:14 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:14 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:37:14 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:21 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:21 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:24 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:24 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:28 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:28 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:37:28 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:33 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:33 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:35 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:35 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:37:35 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:37:42 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:37:42 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:37:42 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:39:10 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:39:10 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:39:10 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:40:43 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:40:43 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:40:48 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:40:48 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:40:51 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:40:51 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:40:51 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:40:55 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:40:55 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:40:55 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:40:59 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:40:59 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:41:00 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:41:00 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:41:01 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:41:01 DEBUG Core:272 - Megfordult babuk szama: 2
+2017-05-24 00:41:01 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:41:04 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:41:04 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:41:04 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:41:08 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:41:08 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:41:08 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:41:08 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:41:09 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:41:09 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:41:09 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:41:09 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:41:10 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:41:10 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:41:10 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:43:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:43:40 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:43:42 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:43:42 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:43:42 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:43:50 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:43:50 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:43:53 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:43:53 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:43:55 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:43:55 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:43:55 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:43:58 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:43:58 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:43:58 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:44:05 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:44:05 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:44:06 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:44:06 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:44:06 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:44:06 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:44:08 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:44:08 DEBUG Core:272 - Megfordult babuk szama: 2
+2017-05-24 00:44:08 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:22 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:22 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:24 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:24 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:45:24 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:27 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:27 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:45:27 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:29 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:29 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:45:29 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:32 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:32 DEBUG Core:272 - Megfordult babuk szama: 2
+2017-05-24 00:45:32 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:34 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:34 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:45:34 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:36 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:36 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:37 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:37 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:40 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:40 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:40 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:40 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:41 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:41 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:45:41 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:42 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:42 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:45:42 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:42 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:42 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:42 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:42 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:42 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:42 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:45:42 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:43 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:43 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:43 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:43 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:43 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:43 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:43 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:43 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:43 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:43 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:44 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:44 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:44 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:44 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:44 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:44 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:44 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:44 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:44 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:44 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:44 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:44 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:45 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:45 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:45 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:45 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:47 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:47 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:45:47 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:49 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:49 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:45:49 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:45:52 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:45:52 DEBUG Core:272 - Megfordult babuk szama: 2
+2017-05-24 00:45:52 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:47:02 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:47:02 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:47:02 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:47:04 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:47:04 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:47:05 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:47:05 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:47:06 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:47:06 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:47:06 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:47:08 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:47:08 DEBUG Core:272 - Megfordult babuk szama: 2
+2017-05-24 00:47:08 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:47:10 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:47:10 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:47:10 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:47:19 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 00:47:19 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 00:47:19 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 00:57:22 INFO  Core:50 - A jateknak vege, a tabla betelt!
+2017-05-24 00:58:30 INFO  Core:50 - A jateknak vege, a tabla betelt!
+2017-05-24 01:01:02 INFO  Core:50 - A jateknak vege, a tabla betelt!
+2017-05-24 02:57:50 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 02:57:50 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 02:57:50 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 02:57:52 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 02:57:52 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 02:57:52 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 02:57:52 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 02:57:52 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 02:57:52 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 02:57:53 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 02:57:53 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 02:57:53 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 02:57:53 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 02:57:53 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 02:57:53 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 02:57:54 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 02:57:54 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 02:57:54 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 02:57:56 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 02:57:56 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 02:57:56 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 02:57:58 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 02:57:58 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 02:57:58 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 02:57:59 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 02:57:59 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 02:57:59 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 02:59:24 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 02:59:24 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 02:59:24 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:01:47 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:01:50 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:02:56 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:02:56 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:02:56 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:02:58 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:02:58 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:02:58 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:03:03 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:03:03 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:03:03 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:03:06 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:03:06 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:03:06 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:03:12 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:03:12 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:03:12 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:03:18 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:03:18 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 03:03:18 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:03:18 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:03:20 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:03:20 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:03:20 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:03:20 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:03:20 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:03:20 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:03:21 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:03:21 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 03:03:21 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:03:21 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:03:23 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:03:23 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:03:23 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:03:24 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:03:24 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 03:03:24 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:03:24 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:04:00 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:04:00 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 03:04:00 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:04:00 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:04:09 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:04:09 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 03:04:09 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:04:09 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:04:12 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:04:12 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:04:12 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:04:21 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:04:21 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:04:21 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:04:25 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:04:25 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 03:04:25 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:04:25 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:04:28 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:04:28 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 03:04:28 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:04:28 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:04:30 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:04:30 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:04:30 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:04:36 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:04:36 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 03:04:36 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:04:36 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:04:45 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:04:45 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 03:04:45 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:04:45 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:06:56 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:06:56 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:06:56 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:06:59 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:06:59 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:06:59 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:07:00 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:07:00 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 03:07:00 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:07:00 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 03:07:01 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 03:07:01 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 03:07:01 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 07:37:41 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 07:37:45 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 07:37:59 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 07:37:59 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 07:37:59 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 07:38:02 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 07:38:02 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 07:38:02 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 07:38:02 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 07:38:03 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 07:38:03 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 07:38:03 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 07:38:04 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 07:38:04 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 07:38:04 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 07:38:05 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 07:38:05 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 07:38:05 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 07:38:05 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:03 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:03 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:03 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:05 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:05 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:05 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:05 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:05 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 22:09:05 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:05 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:07 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:07 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 22:09:07 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:07 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:08 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:08 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:08 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:09 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:09 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:09 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:10 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:10 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:10 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:10 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:10 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 22:09:10 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:10 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:11 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:11 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:11 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:12 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:12 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 22:09:12 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:12 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:13 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:13 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 22:09:13 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:13 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:15 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:15 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 22:09:15 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:15 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:19 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:19 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:19 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:20 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:20 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 22:09:20 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:20 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:28 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:28 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:28 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:29 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:29 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:29 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:31 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:33 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:33 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 22:09:33 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:33 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:35 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:35 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 22:09:35 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:35 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:38 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:38 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:38 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:39 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:39 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:39 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:39 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:39 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:39 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:40 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:41 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:41 DEBUG Core:272 - Megfordult babuk szama: 2
+2017-05-24 22:09:41 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:41 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:43 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:43 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:44 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:44 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:44 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:44 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:44 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:45 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:45 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 22:09:45 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:45 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:46 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:46 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:46 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:46 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:47 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:47 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 22:09:47 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:47 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:09:49 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:49 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:49 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:49 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:49 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:49 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:50 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:50 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:50 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:50 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:09:50 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:09:50 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:19:34 DEBUG Core:192 - Talalhato szabalyos lepes!
+2017-05-24 22:19:34 DEBUG Core:272 - Megfordult babuk szama: 1
+2017-05-24 22:19:34 DEBUG Core:272 - Megfordult babuk szama: 0
+2017-05-24 22:19:34 INFO  Core:48 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:58:47 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 22:58:47 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 22:58:47 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 22:58:47 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:58:48 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 22:58:48 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 22:58:48 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 22:58:48 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:58:49 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 22:58:49 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 22:58:49 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 22:58:49 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:58:50 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 22:58:50 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 22:58:50 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:58:51 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 22:58:51 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 22:58:51 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 22:58:51 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 22:59:49 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 22:59:49 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 22:59:49 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:00:09 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:00:09 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:00:09 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:15:58 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:15:58 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:15:58 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:15:59 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:15:59 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:15:59 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:00 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:00 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 23:16:00 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:00 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:00 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:00 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 23:16:00 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:00 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:01 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:01 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:01 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:02 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:02 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:02 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:02 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:02 DEBUG Core:271 - Megfordult babuk szama: 2
+2017-05-24 23:16:02 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:03 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:04 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:04 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 23:16:04 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:04 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:05 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:05 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 23:16:05 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:05 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:07 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:07 DEBUG Core:271 - Megfordult babuk szama: 2
+2017-05-24 23:16:07 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:07 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:08 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:08 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 23:16:08 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:08 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:09 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:09 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 23:16:09 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:09 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:10 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:10 DEBUG Core:271 - Megfordult babuk szama: 2
+2017-05-24 23:16:10 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:10 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:11 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:11 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 23:16:11 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:11 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:12 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:12 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:12 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:12 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:12 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:12 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:13 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:13 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 23:16:13 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:13 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:14 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:14 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:14 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:14 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:14 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:14 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:15 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:15 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 23:16:15 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:15 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:16:16 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:16:16 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 23:16:16 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:16:16 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:35:50 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:35:50 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:35:50 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:35:51 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:35:51 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 23:35:51 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:35:51 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:35:52 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:35:52 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 23:35:52 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:35:52 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
+2017-05-24 23:35:52 DEBUG Core:191 - Talalhato szabalyos lepes!
+2017-05-24 23:35:52 DEBUG Core:271 - Megfordult babuk szama: 1
+2017-05-24 23:35:52 DEBUG Core:271 - Megfordult babuk szama: 0
+2017-05-24 23:35:52 INFO  Core:47 - A jatek folytatodik, a tablan meg van szabad hely!
