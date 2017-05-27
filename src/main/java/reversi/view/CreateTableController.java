@@ -46,20 +46,15 @@ public class CreateTableController {
 
 	@FXML
 	private void handlePut(MouseEvent event) {
-		
-		//DateFormat dateFormat = new SimpleDateFormat("yyyy.MM.dd.HH:mm:ss");
-		//Date date = new Date();
-		//System.out.println(dateFormat.format(date)); 
-		// Circle circle = new
-		// Circle(MouseInfo.getPointerInfo().getLocation().getX(),MouseInfo.getPointerInfo().getLocation().getY(),30);
-		// circle.setFill(Paint.valueOf("RED"));
-		// proba.getChildren().add(circle);
-		// System.out.println("asd1");
+	
 		double x = event.getSceneX();
-		// MouseInfo.getPointerInfo().getLocation().getX();
+		
 		double y = event.getSceneY();
-		// MouseInfo.getPointerInfo().getLocation().getY();
+		
 		System.out.println(x + " " + y);
+		
+		x = borderCutX(x);
+		y = borderCutY(y);
 
 		int elemx, elemy;
 		elemx = (int) ((x - 89) / 60);
@@ -95,6 +90,21 @@ public class CreateTableController {
 	}
 
 	Core c = new Core();
+	
+	public Double borderCutX(Double positionX){
+		if(positionX > 564){
+			positionX = 564.0;
+			System.out.println("X cut happend");
+		}
+		return positionX;
+	}
+	public Double borderCutY(Double positionY){
+		if(positionY > 619){
+			positionY=619.0;
+			System.out.println("Y cut happend");
+		}
+		return positionY;
+	}
 
 	public void updateInfo(String logStr) {
 		log.setText(logStr);

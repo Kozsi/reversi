@@ -43,7 +43,21 @@ public class PlayerNamePaneController {
 
 		// System.out.println(t.getBlackName());
 		// System.out.println(t.getWhiteName());
-		this.main.createTable(c);
+		
+		if(c.getBlackName().isEmpty()||c.getWhiteName().isEmpty()||c.getBlackName().equals(c.getWhiteName())){
+			String s="";
+			if(c.getBlackName().isEmpty()||c.getWhiteName().isEmpty())
+			{
+				s="No player name field should be empty!";
+			}
+			else{
+				s="Jet fuel can't melt steel beams!";
+			}
+			this.main.Error(s);
+		}
+		else{
+			this.main.createTable(c);
+		}
 
 	}
 

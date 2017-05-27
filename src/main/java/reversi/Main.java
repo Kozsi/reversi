@@ -4,6 +4,7 @@ import java.io.IOException;
 
 import reversi.view.PlayerNamePaneController;
 import reversi.view.CreateTableController;
+import reversi.view.ErrorController;
 import reversi.view.MainPaneController;
 import reversi.Core;
 
@@ -12,6 +13,7 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
+import javafx.stage.Modality;
 import javafx.stage.Stage;
 
 public class Main extends Application {
@@ -99,5 +101,31 @@ public class Main extends Application {
 			e.printStackTrace();
 		}
 	}
+	
+	public void Error(String uzenet){
+		try {
+			FXMLLoader loader = new FXMLLoader();
+			loader.setLocation(Main.class.getResource("/fxml/Error.fxml"));
+			AnchorPane pane;
+			pane = (AnchorPane) loader.load();
+			
+			Stage stage = new Stage();
+			stage.setTitle("Hiba");
+			stage.initModality(Modality.WINDOW_MODAL);
+			stage.initOwner(getPrimaryStage());
+			
+			Scene scene = new Scene(pane);
+			stage.setScene(scene);
+			
+			ErrorController controller = loader.getController();
+			controller.setStage(stage);
+			controller.setText(uzenet);
+			
+			stage.showAndWait();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	
 	
 }

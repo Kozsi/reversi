@@ -67,6 +67,10 @@ public class IOHandler {
 		White.appendChild(Whitepoint);
 		root.appendChild(White);
 		
+		Element CurrP = doc.createElement("CurrP");
+		CurrP.appendChild(doc.createTextNode("" + core.getCurrentPlayer()));
+		root.appendChild(CurrP);
+				
 		DateFormat dateFormat = new SimpleDateFormat("yyyyMMddHHmmss");
 		Date date = new Date();
 		String nameoffile = dateFormat.format(date);
@@ -96,6 +100,7 @@ public class IOHandler {
 		core.setWhite(Integer.parseInt(document.getElementsByTagName("White-point").item(0).getTextContent()));
 		core.setBlackName(document.getElementsByTagName("Black-name").item(0).getTextContent());
 		core.setWhiteName(document.getElementsByTagName("White-name").item(0).getTextContent());
+		core.setCurrentPlayer(Integer.parseInt(document.getElementsByTagName("CurrP").toString()));
 		return core;
 
 	}

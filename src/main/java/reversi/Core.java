@@ -22,6 +22,7 @@ public class Core extends Table {
 	 */
 	public final void getScore() {
 		System.out.println(" Black pieces: " + getBlack() + " White pieces: " + getWhite());
+	
 	}
 
 	/**
